@@ -1,0 +1,209 @@
+{
+  "status": "success",
+  "recipe_data": [
+    {
+      "id": "1",
+      "name": "White Sauce Pasta",
+      "ingredient_data": [
+        {
+          "ingredient_id": "1",
+          "ingredient_name": "1 cup shell pasta or macaroni"
+        },
+        {
+          "ingredient_id": "2",
+          "ingredient_name": "1.5 cups chopped white button mushrooms"
+        },
+        {
+          "ingredient_id": "3",
+          "ingredient_name": "1 small to medium capsicum/ bell pepper, any color - red, green or yellow"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Pizza",
+      "ingredient_data": [
+        {
+          "ingredient_id": "4",
+          "ingredient_name": "Pizza Base/Crust"
+        },
+        {
+          "ingredient_id": "5",
+          "ingredient_name": "Sliced Pepperoni"
+        },
+        {
+          "ingredient_id": "6",
+          "ingredient_name": "Cooked Italian Sausage"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Honey Chilli Potato",
+      "ingredient_data": [
+        {
+          "ingredient_id": "10",
+          "ingredient_name": "Medium sized peeled potatoes- 4"
+        },
+        {
+          "ingredient_id": "11",
+          "ingredient_name": "Chilli powder- 1 spoon"
+        },
+        {
+          "ingredient_id": "12",
+          "ingredient_name": "Tomato sauce- 2 spoons"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Veg. Manchurian",
+      "ingredient_data": [
+        {
+          "ingredient_id": "13",
+          "ingredient_name": "Manchurian Balls"
+        },
+        {
+          "ingredient_id": "14",
+          "ingredient_name": "Ginger - 1 inch piece (grated)"
+        },
+        {
+          "ingredient_id": "15",
+          "ingredient_name": "Green chilly - 1-2 (finely chopped)"
+        },
+        {
+          "ingredient_id": "16",
+          "ingredient_name": "Soya sauce - 1 tbsp"
+        },
+        {
+          "ingredient_id": "17",
+          "ingredient_name": "Vegetable stalk - 1 cup"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Cheese Sandwich",
+      "ingredient_data": [
+        {
+          "ingredient_id": "18",
+          "ingredient_name": "4 slices white bread"
+        },
+        {
+          "ingredient_id": "19",
+          "ingredient_name": "2 slices Cheddar cheese"
+        },
+        {
+          "ingredient_id": "20",
+          "ingredient_name": "3 tablespoons butter, divided"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Fried Rice",
+      "ingredient_data": [
+        {
+          "ingredient_id": "21",
+          "ingredient_name": "1 cup long grained rice"
+        },
+        {
+          "ingredient_id": "22",
+          "ingredient_name": "3 to 4 small sized garlic chopped"
+        },
+        {
+          "ingredient_id": "23",
+          "ingredient_name": "3 tsp naturally fermented soy sauce"
+        },
+        {
+          "ingredient_id": "24",
+          "ingredient_name": "1 tsp rice vinegar or regular vinegar"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Pav Bhaji",
+      "ingredient_data": [
+        {
+          "ingredient_id": "25",
+          "ingredient_name": "3 medium sizes potatoes, 250 gms"
+        },
+        {
+          "ingredient_id": "26",
+          "ingredient_name": "1 to 1.25 cups cups chopped cauliflower, 120 to 130 gms cauliflower"
+        },
+        {
+          "ingredient_id": "27",
+          "ingredient_name": "1 large onion - finely chopped"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Veg. Noodles",
+      "ingredient_data": [
+        {
+          "ingredient_id": "28",
+          "ingredient_name": "125 to 150 gms chinese noodles"
+        },
+        {
+          "ingredient_id": "29",
+          "ingredient_name": "1 medium carrot/gajar, julienned"
+        },
+        {
+          "ingredient_id": "30",
+          "ingredient_name": "2-3 medium spring onions, finely chopped"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Upma",
+      "ingredient_data": [
+        {
+          "ingredient_id": "31",
+          "ingredient_name": "1 cup fine sooji/rawa/cream of wheat"
+        },
+        {
+          "ingredient_id": "32",
+          "ingredient_name": "1 tsp urad dal/husked split black gram"
+        },
+        {
+          "ingredient_id": "33",
+          "ingredient_name": "1 tsp chana dal/husked split bengal gram"
+        },
+        {
+          "ingredient_id": "34",
+          "ingredient_name": "1 or 2 dry red chilies/sukhi lal mirch, broken and deseeded"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Chilli Paneer",
+      "ingredient_data": [
+        {
+          "ingredient_id": "35",
+          "ingredient_name": "1 medium onion, quartered and separated in squares"
+        },
+        {
+          "ingredient_id": "36",
+          "ingredient_name": "1 small to medium capsicum, cut in squares"
+        },
+        {
+          "ingredient_id": "37",
+          "ingredient_name": "Half ginger, finely chopped"
+        },
+        {
+          "ingredient_id": "38",
+          "ingredient_name": "7 to 9 small to medium garlic cloves"
+        },
+        {
+          "ingredient_id": "39",
+          "ingredient_name": "1 tsp sweet red chili sauce"
+        }
+      ]
+    }
+  ]
+}
